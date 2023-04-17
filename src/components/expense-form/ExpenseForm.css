@@ -1,0 +1,29 @@
+.child{
+    display: flex;
+
+}
+
+.child input {
+    height: 30px;
+    width: 25vw;
+    border-radius: 10px;
+    border: none;
+
+}
+label{
+    margin-bottom: 5px;
+}
+.child2 input{
+    height: 30px;
+    width: 25vw;
+    border-radius: 10px;
+    border: none;
+}
+.btn-click{
+    display: flex;
+    gap: 1rem;
+    justify-content: end;
+}
+.cancel button{
+    width: 120px;
+}
